@@ -7,7 +7,7 @@ spring:
     host: 192.168.37.128
 aliyun:
  sms:
-  accessKeyId: 
+  accessKeyId:
   accessKeySecret:
   template_code: SMS_165676268
   sign_name: 十次方论坛验证码
